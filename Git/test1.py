@@ -1,1 +1,1 @@
-print("hello git_by_test1.py")
+print("hello git test1")
